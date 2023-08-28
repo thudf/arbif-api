@@ -25,9 +25,10 @@ O projeto tem por objetivo criar uma aplicação fictícia que se assemelha as e
 
 As princiais tecnologias utilizadas na construção da API:
 
-- [Node.js](https://nodejs.org/en/)
-- [uuid v4](https://github.com/thenativeweb/uuidv4/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [Go](https://go.dev/)
+- [MySQL](https://www.mysql.com/)
+- [uuid](https://pkg.go.dev/github.com/google/uuid@v1.3.1)
+- [Mux](https://pkg.go.dev/github.com/gorilla/mux@v1.8.0)
 
 ## 💻 Iniciar
 
@@ -37,11 +38,26 @@ Para importar a documentação das rotas no Postman, clique no botão abaixo:
 
 ### Requisitos
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) ou [npm](https://www.npmjs.com/)
-- Instância do [PostgreSQL](https://www.postgresql.org/)
-- Instância do [MondoDB](https://www.mongodb.com/)
-- Instância do [Redis](https://redis.io/)
+- [Go](https://go.dev/)
+- [Colima](https://github.com/abiosoft/colima)
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+
+### Iniciar DB
+```sh
+# Verificar o status do colima
+$ colima status
+
+# Iniciar o colima, caso não esteja rodando
+$ colima start
+
+# Verificar se a instância do mysql está rodando
+$ docker ps
+
+# Iniciar instância caso não esteja rodando
+$ cd .devenv
+$ docker-compose up -d
+```
 
 ## :zap: Executar
 #### Clone o projeto e acesse a pasta
