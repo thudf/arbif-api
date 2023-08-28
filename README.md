@@ -56,10 +56,11 @@ $ cp .env.example .env
 #### Iniciando a aplicação
 ```sh
 # Instale as dependências
-$ yarn
+$ go mod tidy
+$ go mod vendor
 
 # Inicie a aplicação
-$ yarn dev
+$ go run main.go
 ```
 
 ## 🖊 Licença
