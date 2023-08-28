@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="gobarber" src="[./assets/logo.png](https://github.com/thudf/arbif-api/assets/54460874/536dd845-4741-4169-878a-d3bb9cb85c9a)" width="auto" heigth="auto"/>
+  <img alt="arbif" src="https://github.com/thudf/arbif-api/assets/54460874/536dd845-4741-4169-878a-d3bb9cb85c9a" width="auto" heigth="auto"/>
 </div>
 
 </br>
