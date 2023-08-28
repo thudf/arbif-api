@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="gobarber" src="./assets/logo.png" width="auto" heigth="auto"/>
+  <img alt="arbif" src="https://github.com/thudf/arbif-api/assets/54460874/536dd845-4741-4169-878a-d3bb9cb85c9a" width="auto" heigth="auto"/>
 </div>
 
 </br>
@@ -18,9 +18,8 @@
 
 ## 📚 Sobre
 
-Projeto desenvolvido durante o bootcamp GoStack 11 da [Rocketseat](https://github.com/Rocketseat).
-
-O projeto tem por objetivo criar uma aplicação que facilite o gerenciamento de agenda de barbeiros e o acesso aos agendamentos para os clientes e para isso foram desenvolvidos a API, a aplicação Web  e um aplicativo.
+Projeto desenvolvido para a prática de conceitos de backend de forma prática.</br>
+O projeto tem por objetivo criar uma aplicação fictícia que se assememlha a entregas feitas no dia a dia da RV.
 
 ## 🚀 Tecnologias
 
@@ -47,12 +46,12 @@ Para importar a documentação das rotas no Postman, clique no botão abaixo:
 ## :zap: Executar
 #### Clone o projeto e acesse a pasta
 ```sh
-$ git clone https://github.com/thudf/WeatherApp.git
-$ cd WeatherApp
+$ git clone https://github.com/thudf/arbif-api.git
+$ cd arbif-api
 ```
 #### Configure as variáveis ambiente
 ```sh
-$ cp .env.example .env.local
+$ cp .env.example .env
 ```
 #### Iniciando a aplicação
 ```sh
