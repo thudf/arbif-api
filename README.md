@@ -19,7 +19,7 @@
 ## 📚 Sobre
 
 Projeto desenvolvido para a prática de conceitos de backend de forma prática.</br>
-O projeto tem por objetivo criar uma aplicação fictícia que se assememlha a entregas feitas no dia a dia da RV.
+O projeto tem por objetivo criar uma aplicação fictícia que se assemelha as entregas feitas no dia a dia da RV.
 
 ## 🚀 Tecnologias
 
