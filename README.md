@@ -46,8 +46,7 @@ Para importar a documentação das rotas no Postman, clique no botão abaixo:
 ## :zap: Executar
 #### Clone o projeto e acesse a pasta
 ```sh
-$ git clone https://github.com/thudf/arbif-api.git
-$ cd arbif-api
+$ git clone https://github.com/thudf/arbif-api.git && cd arbif-api
 ```
 #### Configure as variáveis ambiente
 ```sh
@@ -56,8 +55,7 @@ $ cp .env.example .env
 #### Iniciando a aplicação
 ```sh
 # Instale as dependências
-$ go mod tidy
-$ go mod vendor
+$ go mod tidy && go mod vendor
 
 # Inicie a aplicação
 $ go run main.go
