@@ -83,7 +83,6 @@ Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENS
 
 </br>
 </br>
-</br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/9IZjYtYKV1103Pnu56/giphy.gif" width="200px">
